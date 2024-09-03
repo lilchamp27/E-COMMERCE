@@ -1,0 +1,110 @@
+.navbar-nav{
+    margin-left:  -100px !important;
+}
+
+.hero-section{
+    background-color: #F9DCD1;
+}
+
+.herotext{
+    padding-top: 150px;
+    padding-left: 100px;
+}
+
+.headphone{
+    padding-left: 200px;
+}
+
+.phone{
+    padding-left: 2000px;
+}
+
+
+
+
+
+.footerlogo{
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+}
+
+.bgcolor1{
+    background-color: grey;
+}
+
+.bgcolor{
+    font-size: 25px;
+    background-color: rgb(220, 209, 209);
+    border-radius: 10px;
+}
+
+.categorybutton{
+    padding-left: 600px;
+}
+
+.btn-group{
+    padding-left: 10px;
+}
+
+.cart-box{
+    background-color: rgb(242, 239, 239);
+    
+}
+
+.cart-line{
+    align-content: center;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.star{
+    color: goldenrod;
+    padding-top: px;
+}
+
+.featurebutton{
+    padding-left: 500px;
+}
+
+.category-hero-text{
+    text-wrap: nowrap;
+}
+
+.redheadphone{
+    padding-top: 40px;
+    padding-left: 300px;
+}
+
+
+.category-hero{
+    background-color: #f39ec7;
+}
+
+.eye{
+    margin-top: -25px;
+}
+
+.subscribe{
+    margin-top: 30px;
+}
+
+.details-section{
+    height: 400px;
+    background-color: #F9DCD1;
+}
+
+.iphonetext{
+    font-size: 30px;
+}
+
+.iphonebox{
+    background-color: rgb(218, 218, 218);
+    border-color: rgb(218, 218, 218); ;
+}
+
+.hhh{
+    background-color: rgb(218, 218, 218);
+}
